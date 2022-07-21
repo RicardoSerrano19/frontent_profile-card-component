@@ -66,11 +66,10 @@ body::before{
 
 .card__header{
     flex: 0 0 35%;
+}
+
+.card__header img{
     border-radius: 1rem 1rem 0 0;
-    background-image: url(./images/bg-pattern-card.svg);
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 
 .card__content{
