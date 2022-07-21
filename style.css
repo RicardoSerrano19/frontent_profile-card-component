@@ -70,6 +70,7 @@ body::before{
     background-image: url(./images/bg-pattern-card.svg);
     background-position: center;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .card__content{
